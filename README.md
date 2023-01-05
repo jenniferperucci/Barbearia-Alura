@@ -17,7 +17,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * CSS3
 
 
-![](/home/jenniferperucci/Imagens/barbearia_alura.png)
+![barbearia_alura](https://user-images.githubusercontent.com/102336146/210865549-ed4f0bbd-820e-4d10-8fea-394862a273df.png)
 
 ---
 *Com ❤️ por Jenni* 😊
