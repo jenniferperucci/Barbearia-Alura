@@ -11,8 +11,6 @@ http://barbearia-alura.surge.sh/
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * HTML5
 * CSS3
 
