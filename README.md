@@ -1,6 +1,6 @@
 # Barbearia Alura
 
-Site criado no curso de HTML5 e CSS3, com layout responsivo e  clean code.
+Página criada para atender as necessidades de clientes, como agendamentos, cadastros e localização do estabelecimento.
 
 ## 🚀 Para acessar a aplicação
 
